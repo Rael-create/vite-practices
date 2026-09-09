@@ -1,4 +1,4 @@
 export const Welcome = () => {
-  return <h1>Welcome Rael!</h1>;
+  return <h1>Welcome!</h1>;
 }
 
